@@ -1,7 +1,5 @@
 # **HI THERE!**
 
-<br>
-
  Hi! I'm **Harold Gallego**, a 2nd-Year Student of La Verdad Christian College - Apalit taking the course Associate in Computer Technology. I love learning programming even though almost of the times I get frustrated because of so many bugs, but I didn't stop discovering and exploring new knowledges, possibilities and opportunities to improve my code writing skills.
 <br>
 
@@ -11,18 +9,20 @@
 - 🔒 Cybersecurity
 
 ### **Languages currently using:**
-<div style="display: flex; justify-content: center; align-items: center;">
-<img src="./img/html5-logo.png" alt="" style="width: 40px; border-radius: 10px">
+<img src="./img/html5-logo.png" alt="" style="width: 40px; border-radius: 10px;">
 <img src="./img/js-logo.png" alt="" style="width: 40px; border-radius: 10px">
 <img src="./img/css-logo.png" alt="" style="width: 40px">
 <img src="./img/java-logo.png" alt="" style="width: 40px">
 <img src="./img/csharp-logo.png" alt="" style="width: 40px">
 <img src="./img/python-logo.png" alt="" style="width: 40px">
 <img src="./img/bash-logo.png" alt="" style="width: 40px">
-<img src="./img/bash-logo.png" alt="" style="width: 40px">
-</div>
 
+### **Operating Systems I've been using:** 
+<img src="./img/pop-os-logo.png" alt="" style="width: 40px">
+<img src="./img/kali-logo.png" alt="" style="width: 40px">
+<img src="./img/windows-logo.png" alt="" style="width: 40px">
 
+<hr>
 
 ### **Some projects I've been worked on:**
 [<img src="https://raw.githubusercontent.com/toor-at-har0/lvcc-grp4-pro_cvpn/main/images/logos/logo-ls.png" style="width: 150px; border: 1px solid #f9bd68; padding: 7px 10px; border-radius: 10px" target="_blank">](https://lvcc-act2-pro-cvpn.netlify.app)
@@ -32,7 +32,14 @@ background: linear-gradient(180deg, rgba(231,160,101,1) 0%, rgba(251,67,134,1) 1
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=toor-at-har0)
 
-My Personal Website:
+### **Follow Me on:**
+- [**Facebook**](https://facebook.com/h01000111)
+- [**Instagram**](https://instagram.com/halord.jpg)
+- [**Twitter**](https://twitter.com/HarordG)
+- [**YouTube**](https://youtube.com/channel/UCj9Ft2taDzOzTzDO02DWS6Q)
+- [**LinkedIn**](https://linkedin.com/in/haroldgallego2018)
+
+**My Personal Website:***
 #### *Soon!*
 
 > [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2320D552&center=true&vCenter=true&multiline=true&height=100&lines=%22Dont+be+a+programmer..;%E2%80%8E%E2%80%8E%E2%80%8E...%E2%80%8Ebe+a+problem+solver%22;-+J+O+M+A)](https://git.io/typing-svg)
