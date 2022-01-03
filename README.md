@@ -9,18 +9,24 @@
 - 🔒 Cybersecurity
 
 ### **Languages currently using:**
-<img src="./img/html5-logo.png" alt="" style="width: 40px; border-radius: 10px;">
-<img src="./img/js-logo.png" alt="" style="width: 40px; border-radius: 10px">
-<img src="./img/css-logo.png" alt="" style="width: 40px">
-<img src="./img/java-logo.png" alt="" style="width: 40px">
-<img src="./img/csharp-logo.png" alt="" style="width: 40px">
-<img src="./img/python-logo.png" alt="" style="width: 40px">
-<img src="./img/bash-logo.png" alt="" style="width: 40px">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+<img src="./img/html5-logo.png" alt="html5" style="width: 40px; border-radius: 10px;">
+<img src="./img/js-logo.png" alt="javascript" style="width: 40px; border-radius: 10px">
+<img src="./img/css-logo.png" alt="css3" style="width: 40px">
+<img src="./img/java-logo.png" alt="java" style="width: 40px">
+<img src="./img/csharp-logo.png" alt="csharp" style="width: 40px">
+<img src="./img/python-logo.png" alt="python" style="width: 40px">
+<img src="./img/bash-logo.png" alt="bash" style="width: 40px">
+</div>
+
 
 ### **Operating Systems I've been using:** 
-<img src="./img/pop-os-logo.png" alt="" style="width: 40px">
-<img src="./img/kali-logo.png" alt="" style="width: 40px">
-<img src="./img/windows-logo.png" alt="" style="width: 40px">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+
+<img src="./img/pop-os-logo.png" alt="popos" style="width: 40px">
+<img src="./img/kali-logo.png" alt="kali-linux" style="width: 40px">
+<img src="./img/windows-logo.png" alt="windows" style="width: 40px">
+</div>
 
 <hr>
 
