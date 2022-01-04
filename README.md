@@ -1,16 +1,23 @@
-# **HI THERE!**
 
- Hi! I'm **Harold Gallego**, a 2nd-Year Student of **La Verdad Christian College - Apalit** taking the course Associate in Computer Technology. I love studying programming even though almost of the times I get frustrated because of so many bugs, but I didn't stop discovering and exploring new knowledges, possibilities and opportunities, getting in touch with friends, devs, communities, and professionals to improve my fundamental knowledge and code writing skills.
+<h2 align="center" style="font-family: Ubuntu">Hi 👋, I'm Harold Gallego</h2>
+<h4 align="center"><em>A poorgrammer from Bulacan</em></h4>
 <br>
 
-### **Things I'm interested in:**
-- 🖥️ Coding
-- 🎥 Filmmaking
-- 🔒 Cybersecurity
-- :signal_strength: Computer Networking
-- 🖥️ Computer Hardware
+<p align="center" style="font-family: Ubuntu">A 2nd-Year Student of <strong>La Verdad Christian College - Apalit</strong> taking the course Associate in Computer Technology. I love studying programming even though almost of the times I get frustrated because of so many bugs, but I didn't stop discovering and exploring new knowledges, possibilities and opportunities, getting in touch with friends, devs, communities, and professionals to improve my fundamental knowledge and code writing skills.</p>
+<br>
 
-### **Languages currently using:**
+- :computer: technophile
+- :penguin: linux user
+- :art: love colors
+
+### **Things I'm interested in:**
+- :computer: Coding
+- :movie_camera: Filmmaking
+- :lock: Cybersecurity
+- :signal_strength: Computer Networking
+- :computer: Computer Hardware
+
+### **Languages and Tools:**
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 <img src="./img/html5-logo.png" alt="html5" style="width: 40px; border-radius: 10px;">
 <img src="./img/js-logo.png" alt="javascript" style="width: 40px; border-radius: 10px">
