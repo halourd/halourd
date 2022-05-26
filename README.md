@@ -39,7 +39,7 @@
 
 <hr>
 
-### **Some projects I've been worked on:**
+### **Some school projects I've been worked on:**
 <a href="https://lvcc-act2-pro-cvpn.netlify.app" target="_blank"><img src="https://raw.githubusercontent.com/hawould/lvcc-grp4-pro_cvpn/main/images/logos/logo-ls.png"   style="width: 150px; border: 1px solid #f9bd68; padding: 7px 10px; border-radius: 10px;"></a>
 <br>
 <a href="https://lvcc-act2-code-xchange-rwd.netlify.app/index.html" target="_blank"><img src="https://raw.githubusercontent.com/hawould/code-xchange-rwd/main/images/logos/logo-landscape-transparent.png" style="width: 190px; border: 1px solid #d8670b; padding: 7px 10px; border-radius: 10px; background: rgb(231,160,101);
